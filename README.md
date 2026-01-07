@@ -1,4 +1,5 @@
-# 🐺 Lykos> **Profissionalizando a jornada do freelancer.**
+# 🐺 Lykos
+> **Profissionalizando a jornada do freelancer.**
 
 Bem-vindo ao repositório oficial da **Lykos**. Somos uma solução digital integrada nascida para simplificar e otimizar a vida de freelancers (videomakers, designers, redatores, técnicos) e conectar esses profissionais a clientes de forma transparente e eficiente.
 

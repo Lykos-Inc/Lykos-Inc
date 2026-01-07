@@ -14,16 +14,13 @@ A nossa proposta é transformar o freelancer em um negócio organizado, oferecen
 ## 🎯 Nosso Objetivo
 O principal objetivo da Lykos é **reduzir a informalidade e a desorganização** no mercado de serviços autônomos. Queremos resolver três dores principais:
 
-1. 
-**Dificuldade de Divulgação:** Criar uma vitrine profissional para quem não tem alcance.
+1. **Dificuldade de Divulgação:** Criar uma vitrine profissional para quem não tem alcance.
 
 
-2. 
-**Gestão de Agenda:** Eliminar conflitos de horários e o "vai e vem" de mensagens para marcar uma data.
+2. **Gestão de Agenda:** Eliminar conflitos de horários e o "vai e vem" de mensagens para marcar uma data.
 
 
-3. 
-**Tomada de Decisão:** Oferecer dados (como faturamento e serviços mais vendidos) para que o freelancer saiba como crescer.
+3. **Tomada de Decisão:** Oferecer dados (como faturamento e serviços mais vendidos) para que o freelancer saiba como crescer.
 
 
 
